@@ -1,0 +1,206 @@
+\begin{tabular}{llrrrr}
+\toprule
+             diag &                                         diag\_glosa &  num\_muertes &  porcentaje\_muertes &   tmb &   tma \\
+\midrule
+          C33-C34 &                        Tráquea, bronquios y pulmón &           59 &               13.14 & 12.38 & 35.29 \\
+              C61 &                                           Próstata &           34 &                7.57 &  7.13 & 24.16 \\
+              C16 &                                           Estómago &           44 &                9.80 &  9.23 & 24.06 \\
+          C23-C24 &                                    Vesícula biliar &           34 &                7.57 &  7.13 & 17.12 \\
+              C18 &                                              Colon &           32 &                7.13 &  6.71 & 16.42 \\
+              C22 &                                             Hígado &           25 &                5.57 &  5.24 & 14.31 \\
+C26, C39, C76-C80 &                               Primario desconocido &           22 &                4.90 &  4.61 & 12.67 \\
+              C64 &                                              Riñón &           21 &                4.68 &  4.40 & 11.88 \\
+              C67 &                                    Vejiga urinaria &           18 &                4.01 &  3.78 & 10.92 \\
+              C25 &                                           Páncreas &           19 &                4.23 &  3.99 &  9.56 \\
+              C50 &                                               Mama &           19 &                4.23 &  3.99 &  8.65 \\
+              C53 &                                     Cuello uterino &           15 &                3.34 &  3.15 &  7.00 \\
+          C19-C20 &                                              Recto &           11 &                2.45 &  2.31 &  5.37 \\
+          C70-C72 &                        Encéfalo y sistema nervioso &            9 &                2.00 &  1.89 &  4.62 \\
+              C56 &                                             Ovario &           10 &                2.23 &  2.10 &  4.23 \\
+              C44 &                                   Piel no melanoma &            7 &                1.56 &  1.47 &  3.76 \\
+     C82-C85, C96 &                                 Linfoma no Hodgkin &            5 &                1.11 &  1.05 &  2.42 \\
+          C47-C49 &                                    Tejidos blandos &            5 &                1.11 &  1.05 &  2.41 \\
+          C37-C38 &                            Otros órganos torácicos &            5 &                1.11 &  1.05 &  2.39 \\
+              C60 &                                               Pene &            4 &                0.89 &  0.84 &  2.12 \\
+              C90 &                                   Mieloma múltiple &            5 &                1.11 &  1.05 &  2.09 \\
+          C92-C94 &                                  Leucemia mieloide &            4 &                0.89 &  0.84 &  2.04 \\
+              C91 &                                  Leucemia linfoide &            4 &                0.89 &  0.84 &  1.97 \\
+              C45 &                                        Mesotelioma &            3 &                0.67 &  0.63 &  1.91 \\
+              C54 &                                     Cuerpo uterino &            3 &                0.67 &  0.63 &  1.67 \\
+              C97 & Tumores malignos de sitios múltiples independie... &            3 &                0.67 &  0.63 &  1.57 \\
+              C51 &                                              Vulva &            3 &                0.67 &  0.63 &  1.54 \\
+              C43 &                                   Melanoma de piel &            3 &                0.67 &  0.63 &  1.48 \\
+          C03-C06 &                                       Cavidad oral &            2 &                0.45 &  0.42 &  1.26 \\
+          C40-C41 &                                Huesos y cartílagos &            3 &                0.67 &  0.63 &  1.20 \\
+              C81 &                                 Linfoma de Hodgkin &            2 &                0.45 &  0.42 &  1.18 \\
+              D46 &                         Síndromes mielodisplásicos &            2 &                0.45 &  0.42 &  1.15 \\
+              C68 &                            Otros órganos urinarios &            2 &                0.45 &  0.42 &  1.13 \\
+          C30-C31 &                                  Cavidades nasales &            2 &                0.45 &  0.42 &  1.10 \\
+              C15 &                                            Esófago &            2 &                0.45 &  0.42 &  0.82 \\
+              C73 &                                           Tiroides &            1 &                0.22 &  0.21 &  0.77 \\
+              C14 &                     Faringe y boca no especificada &            1 &                0.22 &  0.21 &  0.76 \\
+              C17 &                                  Intestino delgado &            1 &                0.22 &  0.21 &  0.57 \\
+              C09 &                                           Amígdala &            1 &                0.22 &  0.21 &  0.53 \\
+              C75 &                         Otras glándulas endocrinas &            1 &                0.22 &  0.21 &  0.39 \\
+              C00 &                                              Labio &            1 &                0.22 &  0.21 &  0.39 \\
+              C21 &                                                Ano &            1 &                0.22 &  0.21 &  0.39 \\
+              C62 &                                          Testículo &            1 &                0.22 &  0.21 &  0.36 \\
+              C63 &                         Otros genitales masculinos &            0 &                0.00 &  0.00 &  0.00 \\
+              C32 &                                            Laringe &            0 &                0.00 &  0.00 &  0.00 \\
+  D45, D471, D473 &             Síndromes mieloproliferaticos crónicos &            0 &                0.00 &  0.00 &  0.00 \\
+          C07-C08 &                                Glándulas salivales &            0 &                0.00 &  0.00 &  0.00 \\
+              C95 &                           Leucemia no especificada &            0 &                0.00 &  0.00 &  0.00 \\
+              C10 &                                   Otros orofaringe &            0 &                0.00 &  0.00 &  0.00 \\
+              C11 &                                        Nasofaringe &            0 &                0.00 &  0.00 &  0.00 \\
+          C12-C13 &                       Hipofaringe y seno piriforme &            0 &                0.00 &  0.00 &  0.00 \\
+              C88 &         Enfermedades inmunoproliferativas malignas &            0 &                0.00 &  0.00 &  0.00 \\
+              C46 &                                  Sarcoma de Kaposi &            0 &                0.00 &  0.00 &  0.00 \\
+              C74 &                                Glándula suprarenal &            0 &                0.00 &  0.00 &  0.00 \\
+          C01-C02 &                                             Lengua &            0 &                0.00 &  0.00 &  0.00 \\
+              C55 &                                          Útero SAI &            0 &                0.00 &  0.00 &  0.00 \\
+              C69 &                                                Ojo &            0 &                0.00 &  0.00 &  0.00 \\
+              C57 &                  Otros órganos genitales femeninos &            0 &                0.00 &  0.00 &  0.00 \\
+              C58 &                                           Placenta &            0 &                0.00 &  0.00 &  0.00 \\
+              C66 &                                             Uréter &            0 &                0.00 &  0.00 &  0.00 \\
+              C65 &                                       Pelvis renal &            0 &                0.00 &  0.00 &  0.00 \\
+              C52 &                                             Vagina &            0 &                0.00 &  0.00 &  0.00 \\
+\bottomrule
+\end{tabular}
+
+\begin{tabular}{llrrrr}
+\toprule
+             diag &                                         diag\_glosa &  num\_muertes\_hombres &  porcentaje\_hombres &  tmb\_hombres &  tma\_hombres \\
+\midrule
+          C33-C34 &                        Tráquea, bronquios y pulmón &                   45 &               18.07 &        18.56 &        28.32 \\
+              C61 &                                           Próstata &                   34 &               13.65 &        14.02 &        24.16 \\
+              C16 &                                           Estómago &                   27 &               10.84 &        11.14 &        15.67 \\
+              C22 &                                             Hígado &                   16 &                6.43 &         6.60 &         9.95 \\
+              C64 &                                              Riñón &                   17 &                6.83 &         7.01 &         9.93 \\
+C26, C39, C76-C80 &                               Primario desconocido &                   16 &                6.43 &         6.60 &         9.57 \\
+              C18 &                                              Colon &                   17 &                6.83 &         7.01 &         9.15 \\
+              C67 &                                    Vejiga urinaria &                   10 &                4.02 &         4.12 &         6.63 \\
+              C25 &                                           Páncreas &                    8 &                3.21 &         3.30 &         4.41 \\
+          C23-C24 &                                    Vesícula biliar &                    6 &                2.41 &         2.47 &         3.45 \\
+          C70-C72 &                        Encéfalo y sistema nervioso &                    6 &                2.41 &         2.47 &         3.31 \\
+          C19-C20 &                                              Recto &                    6 &                2.41 &         2.47 &         2.99 \\
+          C37-C38 &                            Otros órganos torácicos &                    5 &                2.01 &         2.06 &         2.39 \\
+              C60 &                                               Pene &                    4 &                1.61 &         1.65 &         2.12 \\
+     C82-C85, C96 &                                 Linfoma no Hodgkin &                    4 &                1.61 &         1.65 &         2.05 \\
+              C44 &                                   Piel no melanoma &                    3 &                1.20 &         1.24 &         1.92 \\
+          C92-C94 &                                  Leucemia mieloide &                    3 &                1.20 &         1.24 &         1.56 \\
+              C45 &                                        Mesotelioma &                    2 &                0.80 &         0.82 &         1.51 \\
+          C47-C49 &                                    Tejidos blandos &                    3 &                1.20 &         1.24 &         1.42 \\
+              C43 &                                   Melanoma de piel &                    2 &                0.80 &         0.82 &         1.11 \\
+              C97 & Tumores malignos de sitios múltiples independie... &                    2 &                0.80 &         0.82 &         1.04 \\
+              C15 &                                            Esófago &                    2 &                0.80 &         0.82 &         0.82 \\
+              C73 &                                           Tiroides &                    1 &                0.40 &         0.41 &         0.77 \\
+          C03-C06 &                                       Cavidad oral &                    1 &                0.40 &         0.41 &         0.77 \\
+          C40-C41 &                                Huesos y cartílagos &                    2 &                0.80 &         0.82 &         0.77 \\
+              D46 &                         Síndromes mielodisplásicos &                    1 &                0.40 &         0.41 &         0.77 \\
+              C81 &                                 Linfoma de Hodgkin &                    1 &                0.40 &         0.41 &         0.76 \\
+              C14 &                     Faringe y boca no especificada &                    1 &                0.40 &         0.41 &         0.76 \\
+              C68 &                            Otros órganos urinarios &                    1 &                0.40 &         0.41 &         0.65 \\
+              C91 &                                  Leucemia linfoide &                    1 &                0.40 &         0.41 &         0.65 \\
+              C90 &                                   Mieloma múltiple &                    1 &                0.40 &         0.41 &         0.37 \\
+              C62 &                                          Testículo &                    1 &                0.40 &         0.41 &         0.36 \\
+              C75 &                         Otras glándulas endocrinas &                    0 &                0.00 &         0.00 &         0.00 \\
+              C63 &                         Otros genitales masculinos &                    0 &                0.00 &         0.00 &         0.00 \\
+              C74 &                                Glándula suprarenal &                    0 &                0.00 &         0.00 &         0.00 \\
+              C88 &         Enfermedades inmunoproliferativas malignas &                    0 &                0.00 &         0.00 &         0.00 \\
+              C69 &                                                Ojo &                    0 &                0.00 &         0.00 &         0.00 \\
+              C66 &                                             Uréter &                    0 &                0.00 &         0.00 &         0.00 \\
+              C65 &                                       Pelvis renal &                    0 &                0.00 &         0.00 &         0.00 \\
+              C95 &                           Leucemia no especificada &                    0 &                0.00 &         0.00 &         0.00 \\
+  D45, D471, D473 &             Síndromes mieloproliferaticos crónicos &                    0 &                0.00 &         0.00 &         0.00 \\
+              C00 &                                              Labio &                    0 &                0.00 &         0.00 &         0.00 \\
+              C58 &                                           Placenta &                    0 &                0.00 &         0.00 &         0.00 \\
+              C57 &                  Otros órganos genitales femeninos &                    0 &                0.00 &         0.00 &         0.00 \\
+          C07-C08 &                                Glándulas salivales &                    0 &                0.00 &         0.00 &         0.00 \\
+              C09 &                                           Amígdala &                    0 &                0.00 &         0.00 &         0.00 \\
+              C10 &                                   Otros orofaringe &                    0 &                0.00 &         0.00 &         0.00 \\
+              C11 &                                        Nasofaringe &                    0 &                0.00 &         0.00 &         0.00 \\
+          C12-C13 &                       Hipofaringe y seno piriforme &                    0 &                0.00 &         0.00 &         0.00 \\
+              C17 &                                  Intestino delgado &                    0 &                0.00 &         0.00 &         0.00 \\
+              C21 &                                                Ano &                    0 &                0.00 &         0.00 &         0.00 \\
+          C30-C31 &                                  Cavidades nasales &                    0 &                0.00 &         0.00 &         0.00 \\
+              C32 &                                            Laringe &                    0 &                0.00 &         0.00 &         0.00 \\
+              C46 &                                  Sarcoma de Kaposi &                    0 &                0.00 &         0.00 &         0.00 \\
+              C50 &                                               Mama &                    0 &                0.00 &         0.00 &         0.00 \\
+              C51 &                                              Vulva &                    0 &                0.00 &         0.00 &         0.00 \\
+          C01-C02 &                                             Lengua &                    0 &                0.00 &         0.00 &         0.00 \\
+              C53 &                                     Cuello uterino &                    0 &                0.00 &         0.00 &         0.00 \\
+              C54 &                                     Cuerpo uterino &                    0 &                0.00 &         0.00 &         0.00 \\
+              C55 &                                          Útero SAI &                    0 &                0.00 &         0.00 &         0.00 \\
+              C56 &                                             Ovario &                    0 &                0.00 &         0.00 &         0.00 \\
+              C52 &                                             Vagina &                    0 &                0.00 &         0.00 &         0.00 \\
+\bottomrule
+\end{tabular}
+
+\begin{tabular}{llrrrr}
+\toprule
+             diag &                                         diag\_glosa &  num\_muertes\_mujeres &  porcentaje\_mujeres &  tmb\_mujeres &  tma\_mujeres \\
+\midrule
+          C23-C24 &                                    Vesícula biliar &                   28 &                14.0 &        11.95 &        13.67 \\
+              C50 &                                               Mama &                   19 &                 9.5 &         8.11 &         8.65 \\
+              C16 &                                           Estómago &                   17 &                 8.5 &         7.26 &         8.39 \\
+              C18 &                                              Colon &                   15 &                 7.5 &         6.40 &         7.27 \\
+              C53 &                                     Cuello uterino &                   15 &                 7.5 &         6.40 &         7.00 \\
+          C33-C34 &                        Tráquea, bronquios y pulmón &                   14 &                 7.0 &         5.98 &         6.97 \\
+              C25 &                                           Páncreas &                   11 &                 5.5 &         4.69 &         5.14 \\
+              C22 &                                             Hígado &                    9 &                 4.5 &         3.84 &         4.36 \\
+              C67 &                                    Vejiga urinaria &                    8 &                 4.0 &         3.41 &         4.30 \\
+              C56 &                                             Ovario &                   10 &                 5.0 &         4.27 &         4.23 \\
+C26, C39, C76-C80 &                               Primario desconocido &                    6 &                 3.0 &         2.56 &         3.10 \\
+          C19-C20 &                                              Recto &                    5 &                 2.5 &         2.13 &         2.38 \\
+              C64 &                                              Riñón &                    4 &                 2.0 &         1.71 &         1.95 \\
+              C44 &                                   Piel no melanoma &                    4 &                 2.0 &         1.71 &         1.84 \\
+              C90 &                                   Mieloma múltiple &                    4 &                 2.0 &         1.71 &         1.72 \\
+              C54 &                                     Cuerpo uterino &                    3 &                 1.5 &         1.28 &         1.67 \\
+              C51 &                                              Vulva &                    3 &                 1.5 &         1.28 &         1.54 \\
+              C91 &                                  Leucemia linfoide &                    3 &                 1.5 &         1.28 &         1.32 \\
+          C70-C72 &                        Encéfalo y sistema nervioso &                    3 &                 1.5 &         1.28 &         1.31 \\
+          C30-C31 &                                  Cavidades nasales &                    2 &                 1.0 &         0.85 &         1.10 \\
+          C47-C49 &                                    Tejidos blandos &                    2 &                 1.0 &         0.85 &         0.99 \\
+              C17 &                                  Intestino delgado &                    1 &                 0.5 &         0.43 &         0.57 \\
+              C09 &                                           Amígdala &                    1 &                 0.5 &         0.43 &         0.53 \\
+              C97 & Tumores malignos de sitios múltiples independie... &                    1 &                 0.5 &         0.43 &         0.53 \\
+          C03-C06 &                                       Cavidad oral &                    1 &                 0.5 &         0.43 &         0.48 \\
+              C68 &                            Otros órganos urinarios &                    1 &                 0.5 &         0.43 &         0.48 \\
+          C92-C94 &                                  Leucemia mieloide &                    1 &                 0.5 &         0.43 &         0.48 \\
+          C40-C41 &                                Huesos y cartílagos &                    1 &                 0.5 &         0.43 &         0.43 \\
+              C81 &                                 Linfoma de Hodgkin &                    1 &                 0.5 &         0.43 &         0.42 \\
+              C21 &                                                Ano &                    1 &                 0.5 &         0.43 &         0.39 \\
+              C45 &                                        Mesotelioma &                    1 &                 0.5 &         0.43 &         0.39 \\
+              C75 &                         Otras glándulas endocrinas &                    1 &                 0.5 &         0.43 &         0.39 \\
+              C00 &                                              Labio &                    1 &                 0.5 &         0.43 &         0.39 \\
+     C82-C85, C96 &                                 Linfoma no Hodgkin &                    1 &                 0.5 &         0.43 &         0.38 \\
+              D46 &                         Síndromes mielodisplásicos &                    1 &                 0.5 &         0.43 &         0.38 \\
+              C43 &                                   Melanoma de piel &                    1 &                 0.5 &         0.43 &         0.37 \\
+              C55 &                                          Útero SAI &                    0 &                 0.0 &         0.00 &         0.00 \\
+              C73 &                                           Tiroides &                    0 &                 0.0 &         0.00 &         0.00 \\
+  D45, D471, D473 &             Síndromes mieloproliferaticos crónicos &                    0 &                 0.0 &         0.00 &         0.00 \\
+          C07-C08 &                                Glándulas salivales &                    0 &                 0.0 &         0.00 &         0.00 \\
+              C95 &                           Leucemia no especificada &                    0 &                 0.0 &         0.00 &         0.00 \\
+              C10 &                                   Otros orofaringe &                    0 &                 0.0 &         0.00 &         0.00 \\
+              C11 &                                        Nasofaringe &                    0 &                 0.0 &         0.00 &         0.00 \\
+          C12-C13 &                       Hipofaringe y seno piriforme &                    0 &                 0.0 &         0.00 &         0.00 \\
+              C88 &         Enfermedades inmunoproliferativas malignas &                    0 &                 0.0 &         0.00 &         0.00 \\
+              C14 &                     Faringe y boca no especificada &                    0 &                 0.0 &         0.00 &         0.00 \\
+              C15 &                                            Esófago &                    0 &                 0.0 &         0.00 &         0.00 \\
+              C32 &                                            Laringe &                    0 &                 0.0 &         0.00 &         0.00 \\
+              C74 &                                Glándula suprarenal &                    0 &                 0.0 &         0.00 &         0.00 \\
+          C37-C38 &                            Otros órganos torácicos &                    0 &                 0.0 &         0.00 &         0.00 \\
+              C57 &                  Otros órganos genitales femeninos &                    0 &                 0.0 &         0.00 &         0.00 \\
+              C69 &                                                Ojo &                    0 &                 0.0 &         0.00 &         0.00 \\
+              C46 &                                  Sarcoma de Kaposi &                    0 &                 0.0 &         0.00 &         0.00 \\
+              C66 &                                             Uréter &                    0 &                 0.0 &         0.00 &         0.00 \\
+              C65 &                                       Pelvis renal &                    0 &                 0.0 &         0.00 &         0.00 \\
+          C01-C02 &                                             Lengua &                    0 &                 0.0 &         0.00 &         0.00 \\
+              C63 &                         Otros genitales masculinos &                    0 &                 0.0 &         0.00 &         0.00 \\
+              C62 &                                          Testículo &                    0 &                 0.0 &         0.00 &         0.00 \\
+              C61 &                                           Próstata &                    0 &                 0.0 &         0.00 &         0.00 \\
+              C60 &                                               Pene &                    0 &                 0.0 &         0.00 &         0.00 \\
+              C58 &                                           Placenta &                    0 &                 0.0 &         0.00 &         0.00 \\
+              C52 &                                             Vagina &                    0 &                 0.0 &         0.00 &         0.00 \\
+\bottomrule
+\end{tabular}
