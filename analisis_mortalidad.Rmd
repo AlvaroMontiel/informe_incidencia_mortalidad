@@ -1,21 +1,24 @@
 ---
 title: "R Notebook"
-output: html_notebook
----
+output:
+  html_document:
+    df_print: paged
 
-```{python}
-import pandas as pd
-path = "/Users/alvaro/Documents/Data_Science/datasets/defunciones/"
-        nom = "DEF_2010_2018.csv"
-defunciones = path+nom
-df = pd.read_csv(defunciones, sep=';', encoding='Latin-1')
 
-df.describe()
+```{r}
+ruta_mac <- ''
+ruta_win <- 'D:\\Datasets\\defunciones_deis_abierto\\'
+print('Ingresar el sistema operativo (win o mac)')
+so = readline(); 
+
+if (so == 'win'){
+nombre_archivo <- paste(ruta_win,'DEF_1990_2018.csv', sep="")
+bd = read.csv2(nombre_archivo)
+} else {
+  print('Agregar ruta del mac')
+}
 ```
 
-```{python}
-df.query('')['EDAD_CANT'].describe()
-```
 
 ```{r}
 attach(bd)
@@ -62,16 +65,6 @@ lines(cortes[1:(length(cortes)-1)], (edad.relcumfreq)*100)
 ```{r}
 boxplot(edad)
 ```
-
-```{r}
-
-```
-
-
-
-
-
-
 
 
 
